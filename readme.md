@@ -1,6 +1,6 @@
 <div align="center">
 
-# Projet AP WEB BTS <br> | Bachelor IRIS | <br> `NETFLIX`
+# Projet AP WEB  <br> | Bachelor IRIS | <br> `NETFLIX`
 
 </div>
 
