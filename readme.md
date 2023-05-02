@@ -6,7 +6,7 @@
 
 ## Tabai LAHMAR
 
-[Voir le lien du site](https://lahmartabai.github.io/Maison_des_ligues_tous_les_sports/)
+[Voir le lien du site](https://lahmartabai.github.io/Copie_Netflix/)
 
 ## Sommaire :
 
@@ -102,4 +102,4 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
     Films (id_event, nom_event, description_event, date_creation, date_modification, image_event)
 
 
-Voir la Page Web *[Page web](https://lahmartabai.github.io/Maison_des_ligues_tous_les_sports/)*.
+Voir la Page Web *[Page web](https://lahmartabai.github.io/Copie_Netflix/)*.
